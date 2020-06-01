@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pushpanshu/Desktop/openCV/c++/cv_assignment_2/face_detect/faceDetect.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+

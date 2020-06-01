@@ -1,0 +1,3 @@
+/home/pushpanshu/Desktop/openCV/c++/cv_assignment_2/face_detect/build/CMakeFiles/rebuild_cache.dir
+/home/pushpanshu/Desktop/openCV/c++/cv_assignment_2/face_detect/build/CMakeFiles/exec.dir
+/home/pushpanshu/Desktop/openCV/c++/cv_assignment_2/face_detect/build/CMakeFiles/edit_cache.dir
